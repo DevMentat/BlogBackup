@@ -1,1 +1,45 @@
-IyMgTXkgRGV2T3BzIFJvYWRtYXAKCkhlbGxvIEnigJltIERldk1lbnRhdCwgYW5kIHRoaXMgaXMgbXkgcGVyc29uYWwgRGV2T3BzIFJvYWRtYXAuCkkgd2lsbCB1cGRhdGUgaXQgd2hlbmV2ZXIgSSBhY2hpZXZlIGEgc3RlcCBvbiB0aW1lIG9yIG5vdCwgYW5kIGFsc28gZm9yIGFkZGluZyBkZXRhaWxzIGZvciB0aGUgbGF0ZXIgc3RlcC4KCiMjIyBNeSBCYWNrZ3JvdW5kOgpJIGNvbWUgZnJvbSBhIGRlZ3JlZSBpbiBTeXMgQWRtaW4gYW5kIE5ldHdvcmsgYW5kIEkgaGF2ZSBzdHVkaWVkIGZvciBhIHllYXIgQ3liZXIgU2VjdXJpdHkuCiMjIyBNeSBzdHJhdGVneToKSSB3aWxsIGZpcnN0IHN0YXJ0IHdpdGggYSBEZXZPcHMgYm9vdGNhbXAgd2hvIGlzIHNpeCBtb250aHMgbG9uZywgYnV0IEnigJltIHBsYW5uaW5nIHRvIGZpbmlzaCBpdCBpbiBmaXZlIG1vbnRocyBvciBsZXNzLiBJIGtub3cgdGhlIGJvb3RjYW1wIGRvZXNu4oCZdCBjb3ZlciB3aXRoIGRlcHRoIGFsbCBzdWJqZWN0cywgdGhhdOKAmXMgd2h5IGF0IHRoZSBlbmQgb2YgdGhlIGJvb3RjYW1wLCBJIHdpbGwgdGFrZSB0aHJlZSBhZGRpdGlvbmFsIG1vbnRocyB0byBzdHVkeSBmdXJ0aGVyIHRoZSB0b29scyBhbmQgdGVjaG5vbG9naWVzIHVzZWQgYnkgRGV2T3BzLiBJIHdpbGwgbWFpbmx5IHVzZSB2aWRlb3MgYW5kIGJvb2tzIHdoaWxlIGRvaW5nIHB1YmxpYyBwcm9qZWN0cyBmb3IgdHJhaW5pbmcgcHVycG9zZSBhbmQgYWxzbyBzaGFyaW5nIG15IG5ldyBza2lsbHMuCiMjIyBUaGUgUm9hZG1hcDoKVGhpcyByb2FkbWFwIHN0YXJ0cyBub3cgaW4gU2VwdGVtYmVyLCBteSBnb2FsIGlzIHRvIGZpbmQgYSBEZXZPcHMgcG9zaXRpb24gaW4gTWF5IG9yIGJlZm9yZS4KSSB3aWxsIGRldGFpbCBteSByZXNvdXJjZXMgZm9yIHRoZSB0aHJlZSBkZWVwIGxlYXJuIG1vbnRocyB3aGVuIEkgZmluaXNoIHRoZSBib290Y2FtcC4gQnV0IGlmIHlvdSBoYXZlIGdvb2QgRGV2T3BzIGJvb2tzIHRoYXQgZ28gaW50byBkZXRhaWwgdG8gcmVjb21tZW5kLCBJIHdvdWxkIGJlIGdyYXRlZnVsLgoKIyMjIE1PTlRIIDEgLSBEZXZPcHMgQm9vdGNhbXAKLSDinIUgUHJlcmVxdWlzaXRlcwotIOKchSBCYXNoCiMjIyBNT05USMKgMiAtIERldk9wcyBCb290Y2FtcAotIOKchSBWZXJzaW9uIENvbnRyb2wgKEdpdCkKLSDwn5+mIERhdGFiYXNlCi0gQnVpbGQgJiBQYWNrYWdlIE1hbmFnZXIgKE5QTSwgR3JhZGxlKQotIENsb3VkICYgSWFhUwotIEFydGlmYWN0IFJlcG8gTWFuYWdlcgojIyMgTU9OVEjCoDMgLSBEZXZPcHMgQm9vdGNhbXAKLSBDb250YWluZXJzIChEb2NrZXIpCi0gQnVpbGQgQXV0b21hdGlvbiAoQ0kvQ0QgJiBKZW5raW5zKQotIEFXUyBTZXJ2aWNlcwojIyMgTU9OVEjCoDQgLSBEZXZPcHMgQm9vdGNhbXAKLSBDb250YWluZXIgT3JjaGVzdHJhdGlvbiAoS3ViZXJuZXRlcykKLSBLOHMgb24gQVdTCiMjIyBNT05USMKgNSAtIERldk9wcyBCb290Y2FtcAotIGxhQyB3aXRoIFRlcnJhZm9ybQotIEF1dG9tYXRpb24gd2l0aCBQeXRob24KIyMjIE1PTlRIwqA2IC0gRGV2T3BzIEJvb3RjYW1wCi0gQ29uZmlndXJhdGlvbiBNYW5hZ2VtZW50IChBbnNpYmxlKQotIE1vbml0b3Jpbmcgd2l0aCBQcm9tZXRoZXVzCiMjIyBNT05USFMgNy05IC0gU2VsZi1MZWFybgotIERlZXAgTGVhcm5pbmcgJiBUcmFpbmluZwotIFB1YmxpYyBQcm9qZWN0cwojIyMgTU9OVEjCoDEwIC0gSm9iCi0gRmluZGluZyBhIERldk9wcyBqb2IKLSBNb3JlIHByb2plY3RzIGFuZCBkZWVwIGxlYXJuaW5nCgpMZXTigJlzIGdvIPCflKUKCkRldk1lbnRhdA==
+# My DevOps Roadmap
+
+Hello I’m DevMentat, and this is my personal DevOps Roadmap.
+I will update it whenever I achieve a step on time or not, and also for adding details for the later step.
+
+### My Background:
+I come from a degree in Sys Admin and Network and I have studied for a year Cyber Security.
+### My strategy:
+I will first start with a DevOps bootcamp who is six months long, but I’m planning to finish it in five months or less. I know the bootcamp doesn’t cover with depth all subjects, that’s why at the end of the bootcamp, I will take three additional months to study further the tools and technologies used by DevOps. I will mainly use videos and books while doing public projects for training purpose and also sharing my new skills.
+### The Roadmap:
+This roadmap starts now in September, my goal is to find a DevOps position in May or before.
+I will detail my resources for the three deep learn months when I finish the bootcamp. But if you have good DevOps books that go into detail to recommend, I would be grateful.
+
+### MONTH 1 - DevOps Bootcamp
+- ✅ Prerequisites
+- ✅ Bash
+### MONTH 2 - DevOps Bootcamp
+- ✅ Version Control (Git)
+- 🟦 Database
+- Build & Package Manager (NPM, Gradle)
+- Cloud & IaaS
+- Artifact Repo Manager
+### MONTH 3 - DevOps Bootcamp
+- Containers (Docker)
+- Build Automation (CI/CD & Jenkins)
+- AWS Services
+### MONTH 4 - DevOps Bootcamp
+- Container Orchestration (Kubernetes)
+- K8s on AWS
+### MONTH 5 - DevOps Bootcamp
+- laC with Terraform
+- Automation with Python
+### MONTH 6 - DevOps Bootcamp
+- Configuration Management (Ansible)
+- Monitoring with Prometheus
+### MONTHS 7-9 - Self-Learn
+- Deep Learning & Training
+- Public Projects
+### MONTH 10 - Job
+- Finding a DevOps job
+- More projects and deep learning
+
+Let’s go 🔥
+
+DevMentat
