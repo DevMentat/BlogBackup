@@ -16,10 +16,10 @@ I will detail my resources for the three deep learn months when I finish the boo
 - ✅ Bash
 ### MONTH 2 - DevOps Bootcamp
 - ✅ Version Control (Git)
-- 🟦 Database
-- Build & Package Manager (NPM, Gradle)
-- Cloud & IaaS
-- Artifact Repo Manager
+- ✅ Database
+- ✅ Build & Package Manager (NPM, Gradle)
+- ✅ Cloud & IaaS
+- 🟦 Artifact Repo Manager
 ### MONTH 3 - DevOps Bootcamp
 - Containers (Docker)
 - Build Automation (CI/CD & Jenkins)
