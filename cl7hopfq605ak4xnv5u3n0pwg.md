@@ -19,9 +19,9 @@ I will detail my resources for the three deep learn months when I finish the boo
 - ✅ Database
 - ✅ Build & Package Manager (NPM, Gradle)
 - ✅ Cloud & IaaS
-- 🟦 Artifact Repo Manager
+- ✅ Artifact Repo Manager
 ### MONTH 3 - DevOps Bootcamp
-- Containers (Docker)
+- 🟦 Containers (Docker)
 - Build Automation (CI/CD & Jenkins)
 - AWS Services
 ### MONTH 4 - DevOps Bootcamp
