@@ -1,4 +1,4 @@
-# DevOps Journey - Week 8-10 - Docker & Jenkins
+# DevOps Journey - Week 8-10 - Docker & More
 
 Hello, this is a big weekly update because I have missed the two others. I have mainly worked on one bootcamp module, so I waited to finish it before making an update. My productivity was pretty slow in Week 8, but Week 9 and 10 were good.
 
