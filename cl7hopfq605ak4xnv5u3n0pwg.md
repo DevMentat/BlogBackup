@@ -16,66 +16,66 @@ This roadmap starts now in September, my goal is to find a DevOps position in Ma
 
 ### MONTH 1 - DevOps Bootcamp
 
-*   ✅ Prerequisites
+* ✅ Prerequisites
     
-*   ✅ Bash
+* ✅ Bash
     
 
 ### MONTH 2 - DevOps Bootcamp
 
-*   ✅ Version Control (Git)
+* ✅ Version Control (Git)
     
-*   ✅ Database
+* ✅ Database
     
-*   ✅ Build & Package Manager (NPM, Gradle)
+* ✅ Build & Package Manager (NPM, Gradle)
     
-*   ✅ Cloud & IaaS
+* ✅ Cloud & IaaS
     
-*   ✅ Artifact Repo Manager
+* ✅ Artifact Repo Manager
     
 
 ### MONTH 3 - DevOps Bootcamp
 
-*   ✅ Containers (Docker)
+* ✅ Containers (Docker)
     
-*   🟦 Build Automation (CI/CD & Jenkins)
+* ✅ Build Automation (CI/CD & Jenkins)
     
-*   AWS Services
+* 🟦 AWS Services
     
 
 ### MONTH 4 - DevOps Bootcamp
 
-*   Container Orchestration (Kubernetes)
+* Container Orchestration (Kubernetes)
     
-*   K8s on AWS
+* K8s on AWS
     
 
 ### MONTH 5 - DevOps Bootcamp
 
-*   laC with Terraform
+* laC with Terraform
     
-*   Automation with Python
+* Automation with Python
     
 
 ### MONTH 6 - DevOps Bootcamp
 
-*   Configuration Management (Ansible)
+* Configuration Management (Ansible)
     
-*   Monitoring with Prometheus
+* Monitoring with Prometheus
     
 
 ### MONTHS 7-9 - Self-Learn
 
-*   Deep Learning & Training
+* Deep Learning & Training
     
-*   Public Projects
+* Public Projects
     
 
 ### MONTH 10 - Job
 
-*   Finding a DevOps job
+* Finding a DevOps job
     
-*   More projects and deep learning
+* More projects and deep learning
     
 
 Let’s go 🔥
